@@ -25,4 +25,4 @@ $obj | Add-Member NoteProperty -Name "Manager" -Value $Server.Manager
 $allobj += $obj
 }
 $allobj | Export-CSV "D:\Users\akash_si\Desktop\Copy of User1.csv" -NoTypeInformation
-echo "Success"
+echo "Suc"
